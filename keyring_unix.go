@@ -5,8 +5,8 @@ package keyring
 import (
 	"fmt"
 
+	ss "github.com/chippyash/go-keyring/secret_service"
 	dbus "github.com/godbus/dbus/v5"
-	ss "github.com/chipyash/go-keyring/secret_service"
 )
 
 type secretServiceProvider struct{}

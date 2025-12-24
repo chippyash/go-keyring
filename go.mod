@@ -1,4 +1,4 @@
-module github.com/chipyash/go-keyring
+module github.com/chippyash/go-keyring
 
 go 1.24.11
 

@@ -48,7 +48,7 @@ package main
 import (
     "log"
 
-    "github.com/chipyash/go-keyring"
+    "github.com/chippyash/go-keyring"
 )
 
 func main() {
@@ -219,7 +219,7 @@ package implementation
 import (
     "testing"
 
-    "github.com/chipyash/go-keyring"
+    "github.com/chippyash/go-keyring"
 )
 
 func TestMockedSetGet(t *testing.T) {
